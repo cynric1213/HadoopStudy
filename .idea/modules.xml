@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hadoopStudy.iml" filepath="$PROJECT_DIR$/hadoopStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HadoopStudy.iml" filepath="$PROJECT_DIR$/HadoopStudy.iml" />
     </modules>
   </component>
 </project>
